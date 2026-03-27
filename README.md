@@ -14,8 +14,9 @@ I am a Software Engineer based in **Bengaluru**. I am specialized in Control-M o
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Data Structures](https://img.shields.io/badge/Data%20Structures--007ACC?style=for-the-badge&logo=exercism&logoColor=white)
-![Algorithms](https://img.shields.io/badge/Algorithms--6f42c1?style=for-the-badge)
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-Analytical%20Mindset-FF4500?style=for-the-badge&logo=target&logoColor=white)
+![Data Structures](https://img.shields.io/badge/Data%20Structures-007ACC?style=for-the-badge&logo=exercism&logoColor=white)
+![Algorithms](https://img.shields.io/badge/Algorithms-6f42c1?style=for-the-badge)
 ![Workload Orchestration](https://img.shields.io/badge/Workload%20Orchestration---?style=for-the-badge&logo=cog&logoColor=white)
 ![Control-M](https://img.shields.io/badge/Control--M-Orchestration-blue?style=for-the-badge&logo=bmcsoftware&logoColor=white)
 
